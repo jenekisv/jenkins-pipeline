@@ -1,4 +1,4 @@
-# jenkins-pipeline!
+# Пример простого Job!
 1---------------------------------------------
 ![image](https://github.com/jenekisv/jenkins-pipeline/assets/38710485/110922c9-0a5e-4a74-916d-7c82c505f4bc)
 2---------------------------------------------
